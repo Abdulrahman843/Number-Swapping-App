@@ -1,6 +1,6 @@
-# Number Swapping Project
+# Number Swapping App
 
-This project allows users to enter a number (at least 3 digits) and swap the second and last digits of the number. The program provides the original number and the newly swapped number as output.
+This app allows users to enter a number (at least 3 digits) and swap the second and last digits of the number. The program provides the original number and the newly swapped number as output.
 
 ## Features
 
